@@ -1,6 +1,3 @@
-﻿# Copyright (c) Microsoft Corporation.
-# Licensed under the MIT License.
-
 ############################################################################################################
 #               Developed by Daniel Dalavurak as powershell script for Windows Server.                     #
 #                       Including functions and PS Modules like sqlserver                                  #
